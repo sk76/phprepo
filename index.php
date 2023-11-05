@@ -1,3 +1,3 @@
 <?php
-echo "Deploying PHP-based Web App on the Apache Web Server Using CICD Pipeline";
+echo "Latest Version of PHP APP";
 ?>
