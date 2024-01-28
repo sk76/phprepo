@@ -1,3 +1,3 @@
 <?php
-	echo "Welcome to PHP-powered Website!!";
+	echo "Deploying PHP-enabled website using CICD Pipeline!!";
 ?>
