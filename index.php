@@ -1,3 +1,3 @@
 <?php
-	echo "Lastest Version--Deploying PHP-enabled website using CICD Pipeline!!";
+	echo "Deploying PHP-enabled website using CICD Pipeline on the OpenShift Cluster!!";
 ?>
