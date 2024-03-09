@@ -1,3 +1,3 @@
 <?php
-	echo "Deploying PHP-enabled website using CICD Pipeline on the OpenShift Cluster!!";
+	echo "Deploying PHP Web App on the OpenShift Cluster!!";
 ?>
