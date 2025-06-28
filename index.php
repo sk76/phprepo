@@ -1,3 +1,3 @@
 <?php
-	echo "Final Website Ready!! Hello World! Welcome to the PHP-powered Webapp!!";
+	echo "Deploying Php-based Banking App using CICD Pipeline!!";
 ?>
